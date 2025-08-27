@@ -1,4 +1,4 @@
-<h2 align="center">❄️ IceFairyCirno</h2>
+<h1 align="center">❄️ IceFairyCirno</h1>
 
 - 🔭 I’m currently working on **Python+LLM Voice Assistant**
 
