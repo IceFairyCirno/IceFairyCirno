@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.wallhere.com/photos/99/4e/anime_anime_girls-2280998.jpg!d" alt="Cirno" width="700"/>
+  <img src="https://c.wallhere.com/photos/99/4e/anime_anime_girls-2280998.jpg!d" alt="Cirno" width="600"/>
 </p>
 
 <h1 align="center">❄️ IceFairyCirno</h1>
