@@ -58,6 +58,10 @@ Here’s the toolkit I applied into my projects/school works
 ---
 
 ### ❄️ Quote of the day
+<p align="left">
+  <img src="https://media1.tenor.com/m/zfazE9vJBhMAAAAC/makinohara-shouko.gif" alt="Makinohara Shoko" width="500"/>
+</p>
+
 > 「人生って優しくなるためにあるんだと思っています。昨日の私よりも、今日の私がちょっとだけ優しい人間であれば良いなと思って生きています。」
 
 Thanks for stopping by my broing GitHub profile! Feel free to explore my repos, drop a star, or say hi! 🌬️
