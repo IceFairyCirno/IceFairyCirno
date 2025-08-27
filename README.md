@@ -1,6 +1,4 @@
-# ❄️ IceFairyCirno
-
-<h3 align="center">A Yr3 Computer Science student from Hong Kong</h3>
+<h2 align="center">❄️ IceFairyCirno</h2>
 
 - 🔭 I’m currently working on **Python+LLM Voice Assistant**
 
