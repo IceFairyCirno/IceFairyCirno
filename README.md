@@ -1,6 +1,6 @@
 # ❄️ IceFairyCirno
 
-** Computer Science Student from The University of Hong Kong **
+**`Computer Science Student from The University of Hong Kong`**
 
 <!--
 **IceFairyCirno/IceFairyCirno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
