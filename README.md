@@ -64,10 +64,6 @@ Here’s the toolkit I applied into my projects/school works
 
 > 「人生って優しくなるためにあるんだと思っています。昨日の私よりも、今日の私がちょっとだけ優しい人間であれば良いなと思って生きています。」
 
-<a href="https://www.youtube.com/watch?v=wLaYO08gHqo">
-  <img src="card.svg" alt="Music Card - Recently Played" width="300">
-</a>
-
 Thanks for stopping by my broing GitHub profile! Feel free to explore my repos, drop a star, or say hi! 🌬️
 
 <p align="center">
