@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://instagram.com/ch.l_1026"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/chun-ho-ling-0aa909336/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:dicky.ling1026@gmail.com.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:dicky.ling1026@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
